@@ -1,0 +1,6 @@
+@FavoretoAppX.Api_HostAddress = http://localhost:5109
+
+GET {{FavoretoAppX.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
